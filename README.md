@@ -10,7 +10,7 @@ To design tables to hold the data from CSVs, import the CSVs into a SQL database
 
 Utilizing the site (https://www.quickdatabasediagrams.com), create an ERD showing relationships between the data provided.
 
-[Employees_ERD.png]
+![ERD][Images/Employees_ERD.png]
 
 Create the schema to import the CSV.
 
